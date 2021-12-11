@@ -1,0 +1,15 @@
+[
+  {
+    "name": "default",
+    "type": "mysql",
+    "host": "91.121.185.31",
+    "port": 3307,
+    "username": "root",
+    "password": "capacitacion",
+    "database": "capacitacion",
+    "synchronize": false,
+    "entities": [
+      "src/entities/**/*.ts"
+    ]
+  }
+]
